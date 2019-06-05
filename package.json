@@ -1,6 +1,7 @@
 {
   "name": "ng-app",
   "version": "0.0.0",
+  "homepage": "./",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -19,8 +20,11 @@
     "@angular/platform-browser": "~8.0.0",
     "@angular/platform-browser-dynamic": "~8.0.0",
     "@angular/router": "~8.0.0",
+    "classlist.js": "^1.1.20150312",
+    "mdn-polyfills": "^5.17.0",
     "rxjs": "~6.4.0",
     "tslib": "^1.9.0",
+    "web-animations-js": "^2.3.1",
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
